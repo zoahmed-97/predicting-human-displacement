@@ -1,0 +1,12 @@
+"","high","low-medium","medium-high","zero-low"
+"Sensitivity",0.72,0.66,0.68,0.73
+"Specificity",0.94,0.88,0.88,0.9
+"Pos Pred Value",0.83,0.63,0.65,0.69
+"Neg Pred Value",0.89,0.89,0.9,0.92
+"Precision",0.83,0.63,0.65,0.69
+"Recall",0.72,0.66,0.68,0.73
+"F1",0.77,0.65,0.66,0.71
+"Prevalence",0.29,0.24,0.24,0.24
+"Detection Rate",0.21,0.16,0.16,0.17
+"Detection Prevalence",0.25,0.25,0.25,0.25
+"Balanced Accuracy",0.83,0.77,0.78,0.82
